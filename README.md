@@ -9,11 +9,15 @@ Proyek ini menganalisis **Brazilian E-Commerce Public Dataset by Olist** yang be
 
 ### 1. Revenue Drivers & Market Trend
 
+![Alt text](img/img1.png)
+![Alt text](img/img2.png)
+![Alt text](img/img3.png)
+
 Analisis dilakukan untuk mengidentifikasi kategori produk penyumbang pendapatan terbesar dan memantau fluktuasi pasar.
 
 * **Kategori Utama**: `beleza_saude` (kecantikan & kesehatan) dan `relogios_presentes` (jam tangan & kado) secara konsisten menjadi kontributor pendapatan tertinggi.
 * **Momentum Musiman**: Terjadi lonjakan volume pesanan yang signifikan pada November 2017, didorong oleh efektivitas kampanye promosi akhir tahun.
-* **Stabilitas Sektor**: Sektor peralatan rumah tangga (`cama_mesa_banho`) menunjukkan performa stabil dengan permintaan yang konsisten sepanjang tahun.
+* **Stabilitas Sektor**: Sektor peralatan health beauty (`beleza_saude`) menunjukkan performa stabil dengan permintaan yang konsisten dan meningkat sepanjang tahun.
 
 ### 2. Logistics & Operational Efficiency
 
